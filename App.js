@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
   target:{
     backgroundColor:'rgba(255,255,255,0.1)',
     width:'100%',
-    borderRadius:'20px',
+    // border-radius:'20px',
     textAlign:'center',
     alignItems: 'center',
     justifyContent: 'center',
@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
     width:'90%',
     height:50,
     marginTop:20,
-    borderRadius:8,
+    // border-radius:8,
     color:'gray'
   },
   ContainerButton:{
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     width:'100%',
     height:50,
     marginTop:10,
-    borderRadius: '10px',
+    // border-radius: '10px',
     alignItems:'center',
     justifyContent:'center'
   }
